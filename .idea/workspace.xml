@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efd2996b-1de4-47aa-a57b-e1f3aadcbc38" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ch_02.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Null and Conditional Statements.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ch_03.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/whenStatement.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/whileLoop.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/intro.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/intro.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +39,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Ch_02Kt">
+  <component name="RunManager" selected="Kotlin.WhileLoopKt">
     <configuration name="Ch_02Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ch_02Kt" />
       <module name="BeginnersGuide" />
@@ -45,8 +47,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntroKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IntroKt" />
+    <configuration name="Ch_03Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch_03Kt" />
+      <module name="BeginnersGuide" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Null_and_Conditional_StatementsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Null_and_Conditional_StatementsKt" />
+      <module name="BeginnersGuide" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhenStatementKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhenStatementKt" />
+      <module name="BeginnersGuide" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhileLoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhileLoopKt" />
       <module name="BeginnersGuide" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -54,8 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.WhileLoopKt" />
+        <item itemvalue="Kotlin.WhenStatementKt" />
+        <item itemvalue="Kotlin.Null_and_Conditional_StatementsKt" />
+        <item itemvalue="Kotlin.Ch_03Kt" />
         <item itemvalue="Kotlin.Ch_02Kt" />
-        <item itemvalue="Kotlin.IntroKt" />
       </list>
     </recent_temporary>
   </component>
