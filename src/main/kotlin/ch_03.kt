@@ -1,3 +1,5 @@
+import kotlin.math.*
+
 fun main() {
     // Comparison Operators
     // ==, !==, >, >=, <, <=
@@ -31,7 +33,8 @@ fun main() {
     if (number > 0) {
         // Multiple lines grouped together for the if statement
         println("$number is positive")
-        println("$number squared is ${number *number}")
+        println("$number squared is ${number * number}")
+        println("$number cubed is ${number.toDouble().pow(3)}")
     } else if (number == 0) {
         println(" $number Its Zero")
     } else {
@@ -47,10 +50,11 @@ fun main() {
 
     var temp = 0
     var feeling = "cold"
-    while (feeling == "cold"){
+    while (temp <= 26){
         temp ++
-        if (temp == 20){
+        if (temp >= 20){
             feeling = "warm"
+            break
         }
     }
     println(temp)

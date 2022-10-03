@@ -1,3 +1,5 @@
+import kotlin.math.pow
+
 fun main() {
     var number = 0
 
@@ -9,7 +11,7 @@ fun main() {
         }
         number++
     }
-    println("Done")
+    println("\nDone")
 
     number = 0
     do {
@@ -28,7 +30,8 @@ fun main() {
 
     var values = 0 .. 20
     for (i in values){
-        print(i * 2)
+        println(i)
+        println(i.toDouble().pow(5))
     }
     println()
 
@@ -37,7 +40,7 @@ fun main() {
     }
 
     loop@ for (i in 0 until 4) {
-        for (j in 0 until 2) {
+        for (j in 0 until 3) {
             if (i == 3) {
                 break@loop
             }

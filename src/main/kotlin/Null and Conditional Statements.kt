@@ -4,7 +4,8 @@ fun main() {
 
     // Explicit checking
     var string:String? = null
-    string = "Ben"
+//    string = "Eddy"
+
     if (string == null) {
         println(null)
     } else {
@@ -12,7 +13,7 @@ fun main() {
         println("$string")
     }
 
-    // Explicit checking
+    // Safe Call
     println(string?.length)
 
     // Elvis operator with ?:
@@ -23,6 +24,7 @@ fun main() {
     println(string!!.length)
 
     // Safe Casting to Null Type with as?
-    val total: Int? = null
+    var total: Int? = 123
+    total = null
     println(total as? Int)
 }
