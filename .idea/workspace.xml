@@ -2,27 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efd2996b-1de4-47aa-a57b-e1f3aadcbc38" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Bag.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Base.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/GameObject.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/GamePlayer.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Inheritance.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Math.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/MathUtils.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/NumberGuessGame.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ObjectInheritance.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Person.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/UserSession.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/curriedFunctions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/higherOrderFunctions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinFunctions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/scopeConditionalFunctions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Conveyance.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Null and Conditional Statements.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Null and Conditional Statements.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ch_02.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ch_02.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ch_03.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ch_03.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/intro.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/intro.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/whileLoop.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/whileLoop.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,14 +42,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.WhileLoopKt">
-    <configuration name="BaseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaseKt" />
-      <module name="BeginnersGuide" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.ConveyanceKt">
     <configuration name="Ch_02Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ch_02Kt" />
       <module name="BeginnersGuide" />
@@ -78,6 +52,13 @@
     </configuration>
     <configuration name="Ch_03Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ch_03Kt" />
+      <module name="BeginnersGuide" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConveyanceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConveyanceKt" />
       <module name="BeginnersGuide" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -99,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ConveyanceKt" />
         <item itemvalue="Kotlin.WhileLoopKt" />
         <item itemvalue="Kotlin.Null_and_Conditional_StatementsKt" />
         <item itemvalue="Kotlin.Ch_03Kt" />
         <item itemvalue="Kotlin.Ch_02Kt" />
-        <item itemvalue="Kotlin.BaseKt" />
       </list>
     </recent_temporary>
   </component>
