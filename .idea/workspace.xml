@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efd2996b-1de4-47aa-a57b-e1f3aadcbc38" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Conveyance.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/CompassDirections.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/GameContent.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Organizer.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/enumerator.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +17,11 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Object" />
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Enum" />
+        <option value="Kotlin Data Class" />
       </list>
     </option>
   </component>
@@ -42,16 +48,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.ConveyanceKt">
-    <configuration name="Ch_02Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch_02Kt" />
-      <module name="BeginnersGuide" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ch_03Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch_03Kt" />
+  <component name="RunManager" selected="Kotlin.GameContentKt">
+    <configuration name="CompassDirectionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CompassDirectionsKt" />
       <module name="BeginnersGuide" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -64,15 +63,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Null_and_Conditional_StatementsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Null_and_Conditional_StatementsKt" />
+    <configuration name="EnumeratorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EnumeratorKt" />
       <module name="BeginnersGuide" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileLoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WhileLoopKt" />
+    <configuration name="GameContentKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GameContentKt" />
+      <module name="BeginnersGuide" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrganizerKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OrganizerKt" />
       <module name="BeginnersGuide" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.GameContentKt" />
+        <item itemvalue="Kotlin.CompassDirectionsKt" />
+        <item itemvalue="Kotlin.EnumeratorKt" />
+        <item itemvalue="Kotlin.OrganizerKt" />
         <item itemvalue="Kotlin.ConveyanceKt" />
-        <item itemvalue="Kotlin.WhileLoopKt" />
-        <item itemvalue="Kotlin.Null_and_Conditional_StatementsKt" />
-        <item itemvalue="Kotlin.Ch_03Kt" />
-        <item itemvalue="Kotlin.Ch_02Kt" />
       </list>
     </recent_temporary>
   </component>
