@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efd2996b-1de4-47aa-a57b-e1f3aadcbc38" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/CompassDirections.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/GameContent.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Organizer.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/enumerator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Counter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ErrrorExceptionHandling.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Extensions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Name.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Quantity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Rational.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Trade.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/customException.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sealed_test.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/typealias.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,11 +23,12 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Object" />
-        <option value="Kotlin Class" />
         <option value="Kotlin Interface" />
-        <option value="Kotlin File" />
         <option value="Kotlin Enum" />
+        <option value="Kotlin Sealed Class" />
         <option value="Kotlin Data Class" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -48,37 +55,37 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.GameContentKt">
-    <configuration name="CompassDirectionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CompassDirectionsKt" />
+  <component name="RunManager" selected="Kotlin.ExtensionsKt">
+    <configuration name="CustomExceptionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CustomExceptionKt" />
       <module name="BeginnersGuide" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConveyanceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConveyanceKt" />
+    <configuration name="ErrrorExceptionHandlingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ErrrorExceptionHandlingKt" />
       <module name="BeginnersGuide" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnumeratorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EnumeratorKt" />
+    <configuration name="ExtensionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExtensionsKt" />
       <module name="BeginnersGuide" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GameContentKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GameContentKt" />
+    <configuration name="QuantityKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuantityKt" />
       <module name="BeginnersGuide" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrganizerKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OrganizerKt" />
+    <configuration name="RationalKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RationalKt" />
       <module name="BeginnersGuide" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,11 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.GameContentKt" />
-        <item itemvalue="Kotlin.CompassDirectionsKt" />
-        <item itemvalue="Kotlin.EnumeratorKt" />
-        <item itemvalue="Kotlin.OrganizerKt" />
-        <item itemvalue="Kotlin.ConveyanceKt" />
+        <item itemvalue="Kotlin.ExtensionsKt" />
+        <item itemvalue="Kotlin.CustomExceptionKt" />
+        <item itemvalue="Kotlin.RationalKt" />
+        <item itemvalue="Kotlin.ErrrorExceptionHandlingKt" />
+        <item itemvalue="Kotlin.QuantityKt" />
       </list>
     </recent_temporary>
   </component>
