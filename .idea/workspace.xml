@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efd2996b-1de4-47aa-a57b-e1f3aadcbc38" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Lists.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Maps.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PairsTriples.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Sets.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/checkTimers.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +21,8 @@
         <option value="Kotlin Enum" />
         <option value="Kotlin Sealed Class" />
         <option value="Kotlin Data Class" />
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -46,23 +49,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.ListsKt">
-    <configuration name="ArraysKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraysKt" />
-      <module name="BeginnersGuide" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CustomExceptionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CustomExceptionKt" />
-      <module name="BeginnersGuide" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExtensionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExtensionsKt" />
+  <component name="RunManager" selected="Kotlin.PairsTriplesKt">
+    <configuration name="CheckTimersKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timers.CheckTimersKt" />
       <module name="BeginnersGuide" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,8 +64,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RationalKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RationalKt" />
+    <configuration name="MapsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MapsKt" />
+      <module name="BeginnersGuide" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PairsTriplesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PairsTriplesKt" />
+      <module name="BeginnersGuide" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SetsKt" />
       <module name="BeginnersGuide" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.PairsTriplesKt" />
+        <item itemvalue="Kotlin.CheckTimersKt" />
+        <item itemvalue="Kotlin.MapsKt" />
+        <item itemvalue="Kotlin.SetsKt" />
         <item itemvalue="Kotlin.ListsKt" />
-        <item itemvalue="Kotlin.ArraysKt" />
-        <item itemvalue="Kotlin.ExtensionsKt" />
-        <item itemvalue="Kotlin.CustomExceptionKt" />
-        <item itemvalue="Kotlin.RationalKt" />
       </list>
     </recent_temporary>
   </component>
